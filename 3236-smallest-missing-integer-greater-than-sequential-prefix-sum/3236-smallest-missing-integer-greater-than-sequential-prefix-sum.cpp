@@ -31,7 +31,7 @@ public:
             sum += nums[i];
         }
 
-        for (int x = sum; x <= 51; ++x){ 
+        for (int x = sum; x <= 51; ++x){ // include 51 as it may be 50 as initial element
             if (!visited[x]){           
                 return x;
             }
