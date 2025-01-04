@@ -7,6 +7,7 @@ Submissions for challenges.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/onebrownguy/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/onebrownguy/LeetCode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/onebrownguy/LeetCode/tree/master/0088-merge-sorted-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/onebrownguy/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -38,4 +39,8 @@ Submissions for challenges.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/onebrownguy/LeetCode/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/onebrownguy/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
