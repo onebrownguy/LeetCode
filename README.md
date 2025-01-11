@@ -10,12 +10,14 @@ Submissions for challenges.
 | [0035-search-insert-position](https://github.com/onebrownguy/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/onebrownguy/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/onebrownguy/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/onebrownguy/LeetCode/tree/master/0217-contains-duplicate) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/onebrownguy/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/onebrownguy/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/onebrownguy/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/onebrownguy/LeetCode/tree/master/0217-contains-duplicate) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/onebrownguy/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
@@ -36,6 +38,7 @@ Submissions for challenges.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/onebrownguy/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/onebrownguy/LeetCode/tree/master/0217-contains-duplicate) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/onebrownguy/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
