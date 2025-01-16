@@ -53,4 +53,12 @@ Submissions for challenges.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/onebrownguy/LeetCode/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/onebrownguy/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/onebrownguy/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
